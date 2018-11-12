@@ -43,5 +43,5 @@ text = "Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry San
 
 iplot(pwc(text))
 ```
-![Alt text](https://user-images.githubusercontent.com/39755678/48332522-1a415080-e68f-11e8-87ca-693bd0c078dc.png)
+![Alt text](https://user-images.githubusercontent.com/39755678/48332877-6771f200-e690-11e8-9205-c0ec32a05cb2.png)
 
