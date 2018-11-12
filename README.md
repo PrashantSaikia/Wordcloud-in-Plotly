@@ -7,10 +7,10 @@ It uses the wordcloud generator by [amueller] (https://github.com/amueller/word_
 The input text must be a string.
 
 ## Requirements
-You'll need the following packages installed:
-* ordcloud
-* lotly
-* umpy
+The following packages are required:
+* wordcloud
+* plotly
+* numpy
 * pillow
 
 ## Usage
