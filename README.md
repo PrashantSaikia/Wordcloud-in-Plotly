@@ -22,7 +22,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> pwc(plot(text))
 ```
 
-![Alt text](C:\Users\h473\Desktop\Capture.PNG?raw=true "Optional Title")
+![Alt text](https://user-images.githubusercontent.com/39755678/48332521-17466000-e68f-11e8-9242-35a65175a968.PNG)
 
 ### 2. In Jupyter Notebook
 
@@ -36,5 +36,5 @@ text = "Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry San
 
 iplot(pwc(text))
 ```
-![Alt text](C:\Users\h473\Desktop\Untitled.png?raw=true "Optional Title 2")
+![Alt text](https://user-images.githubusercontent.com/39755678/48332522-1a415080-e68f-11e8-87ca-693bd0c078dc.png)
 
