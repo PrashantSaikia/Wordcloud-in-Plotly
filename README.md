@@ -2,7 +2,7 @@
 
 This is a function to natively plot a word-cloud in Plotly.
 
-It uses the wordcloud generator by [amueller] (https://github.com/amueller/word_cloud) in the backend.
+It uses the wordcloud generator by [amueller] (https://github.com/amueller/word_cloud/) in the backend.
 
 The input text must be a string.
 
