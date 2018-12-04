@@ -1,6 +1,6 @@
 # Wordcloud-in-Plotly
 
-This is a function to natively plot a word-cloud in Plotly.
+This is a function to natively plot a basic word-cloud in Plotly. It provides a "skeleton" word-cloud; you can modify the function to add custom features as needed.
 
 It uses the wordcloud generator by [amueller](https://github.com/amueller/word_cloud) in the backend.
 
